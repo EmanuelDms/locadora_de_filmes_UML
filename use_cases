@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2021-10-10T03:35:38.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" version="15.5.0" etag="FDMENiL8Qjf2seyIqJc-" type="github"><diagram id="rzQ2_9Grt8pAvHD3TykE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-10T18:25:27.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="XSSjsGImeOnpiAryVDp-" version="15.5.0" type="github">
+  <diagram id="rzQ2_9Grt8pAvHD3TykE" name="Vendedor">
+    <mxGraphModel dx="1100" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="avRhJoRbiTH6YSbXWcD7-2" value="Locadora de filmes" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeColor=default;verticalAlign=middle;width=120;height=30;" vertex="1" parent="1">
+          <mxGeometry x="190" y="170" width="470" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="AwIzop8vW_e4t8J3y1WF-5" value="" style="orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" source="AwIzop8vW_e4t8J3y1WF-1" target="AwIzop8vW_e4t8J3y1WF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avRhJoRbiTH6YSbXWcD7-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AwIzop8vW_e4t8J3y1WF-1" target="AwIzop8vW_e4t8J3y1WF-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avRhJoRbiTH6YSbXWcD7-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="AwIzop8vW_e4t8J3y1WF-1" target="avRhJoRbiTH6YSbXWcD7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avRhJoRbiTH6YSbXWcD7-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="AwIzop8vW_e4t8J3y1WF-1" target="avRhJoRbiTH6YSbXWcD7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwIzop8vW_e4t8J3y1WF-1" value="Vendedor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AwIzop8vW_e4t8J3y1WF-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="AwIzop8vW_e4t8J3y1WF-4" target="AwIzop8vW_e4t8J3y1WF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avRhJoRbiTH6YSbXWcD7-14" value="&amp;lt;&amp;lt; include &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AwIzop8vW_e4t8J3y1WF-9">
+          <mxGeometry x="-0.0908" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwIzop8vW_e4t8J3y1WF-4" value="Registrar alguel de filme" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AwIzop8vW_e4t8J3y1WF-8" value="Realizar login" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="530" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AwIzop8vW_e4t8J3y1WF-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="AwIzop8vW_e4t8J3y1WF-12" target="AwIzop8vW_e4t8J3y1WF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwIzop8vW_e4t8J3y1WF-15" value="&amp;lt;&amp;lt; include &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AwIzop8vW_e4t8J3y1WF-14">
+          <mxGeometry x="-0.3094" y="2" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwIzop8vW_e4t8J3y1WF-12" value="Cancelar aluguel de filme" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaoQXqPiC94ROvUzLXEO-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="avRhJoRbiTH6YSbXWcD7-17" target="AwIzop8vW_e4t8J3y1WF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaoQXqPiC94ROvUzLXEO-2" value="&amp;lt;&amp;lt; include &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZaoQXqPiC94ROvUzLXEO-1">
+          <mxGeometry x="0.0494" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avRhJoRbiTH6YSbXWcD7-17" value="Cadastrar cliente" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaoQXqPiC94ROvUzLXEO-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="avRhJoRbiTH6YSbXWcD7-19" target="AwIzop8vW_e4t8J3y1WF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaoQXqPiC94ROvUzLXEO-4" value="&amp;lt;&amp;lt; include &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZaoQXqPiC94ROvUzLXEO-3">
+          <mxGeometry x="-0.1326" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avRhJoRbiTH6YSbXWcD7-19" value="Desativar cliente" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
